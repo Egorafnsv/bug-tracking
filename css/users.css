@@ -1,0 +1,38 @@
+a {
+	color: #0000AA;
+	text-decoration: none;
+}
+
+table,
+th,
+td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+tr:hover {
+	background-color: #ddd;
+}
+
+td {
+	text-align: left;
+	padding: 10px;
+}
+
+th {
+	text-align: left;
+	background-color: #4169E1;
+	color: white;
+	padding: 5px;
+}
+
+div.content {
+	padding: 10px;
+	margin: 0 auto;
+	width: 40%;
+}
+
+.topnav .users_list {
+	background-color: #FFF;
+	color: black;
+}
