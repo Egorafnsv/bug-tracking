@@ -1,3 +1,3 @@
 # bug-tracking
-PostgreSQL 15.1 </br>
+PostgreSQL 14.4 </br>
 user: admin - admin
